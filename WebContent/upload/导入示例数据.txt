@@ -1,0 +1,4 @@
+首先下载employees数据库，并解压，并记住具体位置，比如我的是 
+D:/mysql1/employees_db； 
+二.打开命令行cmd，并切换目录路径到你所解压的数据库的路径，比如我的就是D:/mysql1/employees_db >即为正确； 
+三.执行mysql -t -uroot -p <employees.sql;
